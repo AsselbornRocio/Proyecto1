@@ -1,0 +1,3 @@
+# documentación general de programa
+
+En este archivo ingresamos documentación general sobre estructura, etc.
